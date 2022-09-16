@@ -1,0 +1,1 @@
+GUNS: Switchblade 600; Amount: 500; Description: Kamikaze drone; Producer: someone — $10000
